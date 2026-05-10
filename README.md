@@ -18,6 +18,40 @@ The project combines embedded systems, IoT communication, and real-time visualiz
 - Embedded hardware and web integration
 - Scalable architecture for industrial applications
 
+# System Interface & Project Demonstration
+
+## Environment Monitoring - Normal State
+
+![Environment Monitoring](https://github.com/Devananthu/IoT-Based-Smart-Electric-Fence/blob/6373812f2a771f1759f77b631185864cdb77aee7/Fence%20Images/environment-monitor-1%20normal%20state.JPG?raw=true)
+
+## Environment Monitoring - Alert State
+
+![Environment Monitoring](https://github.com/Devananthu/IoT-Based-Smart-Electric-Fence/blob/6373812f2a771f1759f77b631185864cdb77aee7/Fence%20Images/environment-monitor-2.%20alert%20state.JPG)
+
+## Environment Monitoring - Variation State
+
+![Variation](https://github.com/Devananthu/IoT-Based-Smart-Electric-Fence/blob/6373812f2a771f1759f77b631185864cdb77aee7/Fence%20Images/environment-monitor-3%20environment%20variation.JPG)
+
+## Sensor Monitoring - PIR Triggered View 
+
+![s1](https://github.com/Devananthu/IoT-Based-Smart-Electric-Fence/blob/6373812f2a771f1759f77b631185864cdb77aee7/Fence%20Images/sensor-monitor%20PIR%20triggered%20view.JPG)
+
+## Sensor Monitoring - Main Gate Triggered View 
+
+![s3](https://github.com/Devananthu/IoT-Based-Smart-Electric-Fence/blob/6373812f2a771f1759f77b631185864cdb77aee7/Fence%20Images/sensor-monitor%20main%20gate%20triggered.JPG)
+
+## System Control - Safe Mode 
+
+![sc1](https://github.com/Devananthu/IoT-Based-Smart-Electric-Fence/blob/6373812f2a771f1759f77b631185864cdb77aee7/Fence%20Images/system-control%20-%20safe%20mode.JPG)
+
+## System Control - High Voltage Activate State 
+
+![sc2](https://github.com/Devananthu/IoT-Based-Smart-Electric-Fence/blob/6373812f2a771f1759f77b631185864cdb77aee7/Fence%20Images/system-control-active%20HV%20active%20state.JPG)
+
+## Hardware Prototype 
+
+![H](https://github.com/Devananthu/IoT-Based-Smart-Electric-Fence/blob/503cd16ef2873b554c6f8ca7af0af487779a68f8/Fence%20Images/hardware-setup-main.JPG)
+
 
 
 ## System Architecture
