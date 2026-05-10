@@ -20,6 +20,10 @@ The project combines embedded systems, IoT communication, and real-time visualiz
 
 # System Interface & Project Demonstration
 
+## Dashboard Overview 
+
+![Dashboard](https://github.com/Devananthu/IoT-Based-Smart-Electric-Fence/blob/4f18488f2f30ed0587c176a786c598258c6b2064/Fence%20Images/dashboard-overview.JPG)
+
 ## Environment Monitoring - Normal State
 
 ![Environment Monitoring](https://github.com/Devananthu/IoT-Based-Smart-Electric-Fence/blob/6373812f2a771f1759f77b631185864cdb77aee7/Fence%20Images/environment-monitor-1%20normal%20state.JPG?raw=true)
