@@ -77,7 +77,7 @@ The project combines embedded systems, IoT communication, and real-time visualiz
 - Real-Time Data Transmission
 - Hardware-to-Dashboard Integration
 
----
+
 
 ## Technologies Used
 
@@ -96,7 +96,6 @@ The project combines embedded systems, IoT communication, and real-time visualiz
 - Lucide React
 
 
-
 ## Project Workflow
 
 1. The electric fence is continuously monitored using ESP32-based sensing circuitry.
@@ -106,7 +105,6 @@ The project combines embedded systems, IoT communication, and real-time visualiz
 5. Alerts are triggered instantly when intrusion, tampering, or fault conditions are detected.
 
 
-
 ## Applications
 
 - Industrial Perimeter Security
@@ -114,6 +112,3 @@ The project combines embedded systems, IoT communication, and real-time visualiz
 - Smart Security Infrastructure
 - Agricultural Land Protection
 - Remote Fence Supervision Systems
-
-
-
